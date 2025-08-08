@@ -8,7 +8,7 @@ def build_rag_chain():
     loader = TextLoader("data/docs.txt")
     documents = loader.load()
 
-    embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/paraphrase-MiniLM-L3-v2")
+    embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
     vectordb = Chroma.from_documents(documents, embedding=embeddings, persist_directory="./db")
     retriever = vectordb.as_retriever()
 
