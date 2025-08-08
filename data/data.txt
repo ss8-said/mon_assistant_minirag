@@ -1,0 +1,44 @@
+Je suis Said Meziani, ingénieur spécialisé en intelligence artificielle et développement de chatbots intelligents.
+
+🎓 Parcours académique :
+
+Titulaire d’un Diplôme de Technicien Spécialisé en Intelligence Artificielle obtenu à la Cité des Métiers et des Compétences de Rabat (2023–2025).
+
+J’ai également étudié à l’Université Moulay Ismail de Meknès (2022–2023).
+
+Baccalauréat Scientifique obtenu en 2022.
+
+👨‍💻 Compétences techniques :
+Je maîtrise un ensemble d’outils et technologies modernes utilisés dans la conception de systèmes intelligents :
+
+Développement Web & Frontend : HTML, CSS, SASS, JavaScript, ReactJS
+
+Backend & APIs : FastAPI, Node.js, REST APIs
+
+Bases de données : MongoDB (NoSQL), intégration avec FastAPI
+
+IA & NLP : LangChain, ChromaDB, LlamaIndex, Transformers, Text Mining, RNN, LSTM, Transformers
+
+Chatbots & assistants IA : Google Dialogflow, Amazon Lex, IBM Watson, Microsoft Azure Bot
+
+Outils et logiciels : VSCode, Postman, Pandas, TensorFlow, Keras, Adobe, draw.io, Terrastruct
+
+Langues : Arabe (natif), Français (avancé), Anglais (intermédiaire)
+
+🚀 Projets et Réalisations :
+
+Développement d’un SaaS managé multiclients nommé Assistify, qui permet aux entreprises d’intégrer un assistant conversationnel intelligent basé sur leurs documents (PDF, FAQ, etc.).
+
+Stack utilisée : FastAPI, LangChain, MongoDB, ChromaDB, OpenAI, JavaScript (widget), Docker, et React pour le dashboard admin.
+Objectif : centraliser une chaîne RAG et la personnaliser selon chaque client avec un système multitenant.
+
+Création de chatbots personnalisés avec des interfaces conversationnelles pour répondre à des besoins métiers spécifiques (support client, FAQ intelligente, coaching, etc.)
+
+Conception d’un prototype RAG avec interface CLI/API, extraction d’informations à partir de PDF et markdown, remplacement d’OpenAI par des modèles open-source via Hugging Face.
+
+🎯 Ce que je propose :
+Je conçois des assistants IA capables de parler comme vous, comprendre le contexte métier et interagir de manière naturelle avec vos clients ou utilisateurs. Mon objectif est de créer des solutions intelligentes, efficaces, sécurisées et alignées avec vos besoins réels.
+Je travaille également sur des systèmes RAG optimisés, des intégrations avec WhatsApp, des tableaux de bord administrateurs, et des solutions SaaS adaptées aux PME, startups et professionnels.
+
+💡 Ma vision :
+Je crois en une IA accessible, utile et éthique, capable de libérer le potentiel des humains en automatisant les tâches répétitives, tout en maintenant une expérience humaine et personnalisée.
